@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @abdeeeee
-- 👀 I’m interested in sandbox games
-- 🌱 I’m currently learning batch
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in sandboxes
+- 🌱 I’m currently learning Networking
+- 💞️ I’m looking to collaborate on C made clipboard program
 - 📫 How to reach me -discord: abderrahman
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 10 tabs opened on average!
+- ⚡ Fun fact: FUNdamentals!!!
 
 <!---
 abdeeeee/abdeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
